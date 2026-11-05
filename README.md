@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alvaro Franco</h1>
-<h3 align="center">A biomedical engineer who just got a master's from Brown University.</h3>
+<h3 align="center">I'm got my Master's in Biomedical Engineering from Brown University, and I am currently working as Chief Biomedical Computer Vision Engineer for Transmural Biotech SL. </h3>
 
-- 🔭 I’m currently working on **deep learning applied to medical imaging for tumor treatment**.
-- Actively looking for a job.
+- 🔭 I’m also working on **deep learning applied to medical imaging for kidney tumor treatment** with Brown.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
